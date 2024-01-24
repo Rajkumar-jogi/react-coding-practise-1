@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: roboto;
+  font-size: 34px;
+  font-weight: 600;
+  color: white;
+}
+
+.image-container {
+  display: flex;
+}
+
+.custom-image {
+  height: 150px;
+  width: 150px;
+}
